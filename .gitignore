@@ -10,6 +10,7 @@ erl_crash.dump
 .elixir_ls/
 
 # for ide
+.idea
 .vscode
 
 # for editor
